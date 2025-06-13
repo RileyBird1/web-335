@@ -1,0 +1,32 @@
+{
+    "viewer":{
+        "_id": "1",
+        "firstName": "Johnny",
+        "lastName": "Depp",
+        "movies": [
+            "1",
+            "2",
+            "3"        
+        ]
+    },
+
+    "movie":{
+        "_id": "4",
+        "movieName": "Curse of the Black Pearl",
+        "Genre": "Swashbuckler",
+        "ratings": [
+            "1"
+        ]
+    },
+
+    "rating":{
+        "_id": "5",
+        "ratingScore": "5",
+        "viewerId": "12",
+        "movieId": "342",
+        "viewers": [
+            "1",
+            "2"
+        ]
+    }
+}
