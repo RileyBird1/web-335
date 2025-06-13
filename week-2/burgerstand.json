@@ -1,0 +1,17 @@
+{
+    "customer":{
+        "_id": "1",
+        "firstName": "Jane",
+        "lastName": "Doe",
+        "burgers": [
+            "1",
+            "2"        
+        ]
+    },
+
+    "burger":{
+        "_id": "8",
+        "burgerName": "cheese",
+        "price": "$5"
+    }
+}
