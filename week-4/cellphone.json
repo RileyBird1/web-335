@@ -1,0 +1,21 @@
+{
+    "charger":{
+        "_id": "charger22",
+        "chargerType": "USB-C",
+        "voltage": 6
+    }, 
+
+    "user":{
+        "_id": "user1",
+        "firstName": "John",
+        "lastName": "Doe"
+    },
+
+    "devices":{
+        "_id": "device12",
+        "deviceName": "Samsung S22",
+        "deviceType": "smartphone",
+        "user_id": "user1",
+        "charger_id": "charger22"
+    }
+}
