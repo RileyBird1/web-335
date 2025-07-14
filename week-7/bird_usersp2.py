@@ -32,7 +32,7 @@ print(db.users.find_one({"employee": "1007"}))
 
 #build a query to remove a user document
 result = db.users.delete_one({
-    "employeeId": "1007"
+  "employeeId": "1007"
 })
 
 #display the results of the query
